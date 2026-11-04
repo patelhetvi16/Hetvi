@@ -10,7 +10,7 @@
 I am a Computer Science Engineering student
 interested in DevOps, Cloud Computing and Automation.
 
-I have knowledge of Python, SQL and Data Analytics.
+I have knowledge of Python, SQL, Data Analytics,AI/ML
 
 Currently learning Linux, Git, Docker, AWS and CI/CD.
 
